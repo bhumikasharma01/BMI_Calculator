@@ -18,9 +18,6 @@ A simple, responsive web application to calculate and categorize Body Mass Index
 - DOM Manipulation
 - Visual Studio Code (IDE)
 
-## 📸 Screenshots
-
-> *(Optional: Add images or GIFs here if you want to show the interface)*
 
 ## 🧠 How It Works
 
